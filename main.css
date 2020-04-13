@@ -12,7 +12,7 @@ div {
 
 
 #red {
-  color: #f00;
+  border-top-color: #f00;
 }
 #orange {
   border-top-color: #ffa500;
